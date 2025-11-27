@@ -1,4 +1,5 @@
 # projects
 loyihalar
+mijozlar 
+buturmalar
 
-men qo'shgan qator
